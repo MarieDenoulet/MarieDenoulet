@@ -7,7 +7,7 @@
 * 🌻 I'm Marie, PostDoc at [CRCI²NA](https://crci2na.univ-nantes.fr/en/research/team-8) in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Nantes, France
 * 🔬 Biologist by training, programmer by passion 💻
 * 🧬 Specialized in (epi)genomics and cancer research
-* 🎓 During my PhD (CANTHER lab, ONCOLille), I worked on DNA methylation and breast cancer 🎗 and developed the **ABSP** tool 🛠
+* 🎓 During my PhD (CANTHER, ONCOLille), I worked on DNA methylation and breast cancer 🎗 and developed the **ABSP** tool 🛠
 * 📦 Currently developing **muscadet**, an R package for detecting somatic copy number alterations from single-cell multiomics
 * 🙌🏻 Passionate about Bioinformatics 📊, Reproducibility ⚙️, and Open Science 🔓
 * 🌱 Outside the lab, I enjoy reading 📖, painting 🎨, flower gardening 🌸, and cooking 🍳
