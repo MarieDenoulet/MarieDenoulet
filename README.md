@@ -44,9 +44,9 @@
 
 #### 📎 Key resources and communications
 
-[![muscadet poster](https://img.shields.io/badge/muscadet_poster-EF6F6A?style=for-the-badge)](https://hal.science/hal-05150254v1)
-[![ABSP publication](https://img.shields.io/badge/ABSP_Publication-64B5A1?style=for-the-badge)](https://doi.org/10.1093/bioinformatics/btad008)
-[![PhD Thesis](https://img.shields.io/badge/PhD_Thesis-008080?style=for-the-badge)](https://theses.hal.science/tel-04762929v1)
+[![muscadet poster](https://img.shields.io/badge/muscadet_poster-EF6F6A?style=for-the-badge&logo=hal&logoColor=fff)](https://hal.science/hal-05150254v1)
+[![ABSP publication](https://img.shields.io/badge/ABSP_Publication-64B5A1?style=for-the-badge&logo=expedia&logoColor=fff)](https://doi.org/10.1093/bioinformatics/btad008)
+[![PhD Thesis](https://img.shields.io/badge/PhD_Thesis-008080?style=for-the-badge&logo=hal&logoColor=fff)](https://theses.hal.science/tel-04762929v1)
 
 #### 📆 Upcoming events
 
