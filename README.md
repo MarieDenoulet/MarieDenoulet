@@ -1,5 +1,6 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E7CA5?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/marie-denoulet/)
-[![ResearchGate](https://img.shields.io/badge/Research_gate-5EC4BB?&style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Marie-Denoulet/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-6C92D0?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=fr&user=pEY3tPQAAAAJ)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-3686B1?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/marie-denoulet/)
+[![Research Gate](https://img.shields.io/badge/Research_gate-5EC4BB?&style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Marie-Denoulet/)
 [![ORCID](https://img.shields.io/badge/orcid-A9C069?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9668-0439)
 
 ### Hey! Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
